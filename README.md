@@ -6,7 +6,7 @@
 ##Terminar em casa 30.04 
 
 ###Use o NetBeans 
-###Use a base dos views no drive <a>https://drive.google.com/drive/quota<a/>
+###Use a base dos views no drive <a target="_blank">https://drive.google.com/drive/quota<a/>
 
 create database eletroBase;
 
